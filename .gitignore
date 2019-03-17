@@ -1,0 +1,5 @@
+vendor
+docs
+docs/build/*
+docs/cache/*
+tests/_reports
